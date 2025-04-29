@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./src/styles.css";
 import { Quotes } from "./main";
 
 export default function App() {
