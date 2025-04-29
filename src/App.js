@@ -1,5 +1,5 @@
 import "./src/styles.css";
-import { Quotes } from "./main";
+import { Quotes } from "./src/main";
 
 export default function App() {
   return (
